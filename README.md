@@ -1,6 +1,6 @@
 # Insurance against Natural Catastrophes
 
-Here some additional maps, for our [Insurance against Natural Catastrophes:Balancing Actuarial Fairness and Social Solidarity](https://www.palgrave.com/gp/journal/41288) paper, written with Laurence Barry and Molly James, and published in the [Geneva Papers on Risk and Insurance](https://www.palgrave.com/gp/journal/41288).
+Here some additional maps, for the paper [Insurance against Natural Catastrophes:Balancing Actuarial Fairness and Social Solidarity](https://www.palgrave.com/gp/journal/41288), written by Arthur Charpentier, Laurence Barry and Molly James, and published in the [Geneva Papers on Risk and Insurance](https://www.palgrave.com/gp/journal/41288).
 
 ## Var
 
